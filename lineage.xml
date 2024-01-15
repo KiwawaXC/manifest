@@ -52,8 +52,10 @@
 
   <project path="packages/apps/Aperture" name="android_packages_apps_Aperture" remote="lineage" />
   <project path="packages/apps/KeyChain" name="android_packages_apps_KeyChain" remote="lineage" />
+  <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" remote="lineage" />
   <project path="packages/modules/DnsResolver" name="android_packages_modules_DnsResolver" remote="lineage" />
   <project path="packages/modules/StatsD" name="android_packages_modules_StatsD" remote="lineage" />
+  <project path="packages/modules/NeuralNetworks" name="android_packages_modules_NeuralNetworks" remote="lineage" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="lineage" />
 
   <project path="system/ca-certificates" name="android_system_ca-certificates" remote="lineage" />
